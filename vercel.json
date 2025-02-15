@@ -1,8 +1,7 @@
 {
-    "build": {
-      "env": {
-        "API_URL": "https://graphql-pokemon2.vercel.app/"
-      }
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_API_URL": "https://graphql-pokemon2.vercel.app/"
     }
   }
-  
+}
