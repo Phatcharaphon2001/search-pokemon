@@ -1,0 +1,11 @@
+{
+    "build": {
+      "env": {
+        "API_URL": "https://graphql-pokemon2.vercel.app/"
+      }
+    },
+    "scripts": {
+      "test": "jest"
+    }
+  }
+  
