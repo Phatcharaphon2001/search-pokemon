@@ -1,4 +1,4 @@
-"use client"; // บังคับให้เป็น Client Component
+"use client"; 
 
 import { ApolloProvider } from "@apollo/client";
 import client from "../../lib/apolloClient";
